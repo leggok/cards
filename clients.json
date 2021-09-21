@@ -1,0 +1,92 @@
+[
+    {      
+      "id": 1,
+      "img": "./granny.jpg",
+      "m_name": "Mrs Statham",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 2,
+      "img": "./ded.jpg",
+      "m_name": "Mr Garold",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 3,
+      "img": "./granny1.jpg",
+      "m_name": "Mrs Dizel",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },  
+    {      
+      "id": 4,
+      "img": "./ded1.jpg",
+      "m_name": "Mr Moroz",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 5,
+      "img": "./granny2.jpg",
+      "m_name": "Mrs Boom",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 6,
+      "img": "./ded2.jpg",
+      "m_name": "Mr Flex",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },    
+    {      
+      "id": 7,
+      "img": "./granny.jpg",
+      "m_name": "Mrs Simple",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 8,
+      "img": "./ded.jpg",
+      "m_name": "Mr Doc",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 9,
+      "img": "./granny1.jpg",
+      "m_name": "Mrs Lorem",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },    
+    {      
+      "id": 10,
+      "img": "./ded1.jpg",
+      "m_name": "Mr Ipsum",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 11,
+      "img": "./granny2.jpg",
+      "m_name": "Mrs Dolor",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 12,
+      "img": "./ded2.jpg",
+      "m_name": "Mr Sit",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },    
+    {      
+      "id": 13,
+      "img": "./granny.jpg",
+      "m_name": "Mrs Amet",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 14,
+      "img": "./ded2.jpg",
+      "m_name": "Mr Consectetur",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 15,
+      "img": "./ded.jpg",
+      "m_name": "Mr Elit",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    }        
+]
