@@ -1,0 +1,26 @@
+[
+    {      
+      "id": 1,
+      "img": "@/assets/img/grann.jpg",
+      "m_name": "Granny 1",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 1,
+      "img": "@/assets/img/granny.jpg",
+      "m_name": "Granny 1",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 2,
+      "img": "@/assets/img/granny.jpg",
+      "m_name": "Granny 2",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    },
+    {      
+      "id": 3,
+      "img": "@/assets/img/granny.jpg",
+      "m_name": "Granny 3",
+      "decr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dignissimos quam quos atque neque sit facilis laborum animi officia repellat?"
+    }    
+]
